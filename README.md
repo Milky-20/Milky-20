@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi coder, I'm Katerina 👋
 
 <!--
 **Milky-20/Milky-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

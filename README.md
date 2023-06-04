@@ -1,13 +1,16 @@
 ### Hi coder, I'm Katerina 👋
 
+<p>
+ <img width="300" src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47athq8yoct2lyfunnf7o3ds3m322r9rtajtiakpbx&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="snake"/>
+</p>
 
 
-Here are some ideas to get you started:
+<p></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on a website for a macarons shop
+- 🌱 I'm currently in my third year at MIREA University
+- 📫 How to contact me: katyawey2002@mail.ru
+- ⚡ Fun fact: I love driving
 
 ### Technologies:
 <div>
